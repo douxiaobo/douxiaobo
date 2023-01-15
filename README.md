@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am Dou Xiaobo, hearing impaired, graduated from Computer Science and Technology at Tianjin University of Technology on June 2008. <br>
-I love to enter codes and command lines.<br>
-I was responsible for printing and copying at shool since August 2008 to January 2022, but the job does not match my specialty.<br>
-Since February 2022, I am responsible for Admin Assistant at Microsoft Zizhu Campus in Shanghai, at the same time, focus on growing my technical skills development.<br>
-I aspire to be **Software Engineer**. I never give up and follow through with it, when I get many difficult on the road of learning and growing my code skill.<br>
+I am Dou Xiaobo, hearing impaired, graduated from Tianjin University of Technology on June 2008. <br>
+Majored in Computer Science and Technology, I enjoy writing codes and command lines.<br>
+After graduation, I worked in the printing room at a school until Junuary 2022, but I'd like to be able to grow and want more challenges.<br>
+Since February 2022, I had joined Microsoft and worked as an Admin Assistant in Shanghai. During this period, I have focused on growing my technical skills development.<br>
+I aspire to be **Software Engineer**. In the face of the difficulties on the road of learning and developing my coding skills, I never give up and always follow through with them. <br>
 
 |Languaes          |Level            |
 |------------------|-----------------|
