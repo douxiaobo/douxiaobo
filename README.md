@@ -6,14 +6,26 @@ After graduation, I worked in the printing room at a school until Junuary 2022, 
 Since February 2022, I had joined Microsoft and worked as an Admin Assistant in Shanghai. During this period, I have focused on growing my technical skills development.<br>
 I aspire to be **Software Engineer**. In the face of the difficulties on the road of learning and developing my coding skills, I never give up and always follow through with them. <br>
 
-|Languaes          |Level            |
-|------------------|-----------------|
+|Programming Languaes|Level            |
+|--------------------|-----------------|
 |C#                |Familiarity      |
 |Python            |Understand       |
 |Go                |Understand       |
 |C                 |Familiarity during University period|
 |C++               |Familiarity during University period|
 |Assembler Language|Graduation Design during University period|
+
+|Languaes          |Level            |
+|------------------|-----------------|
+|Chinese|Mother Tongue|
+|English|Intermediate|
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douxiaobo)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douxiaobo)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **douxiaobo/douxiaobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
