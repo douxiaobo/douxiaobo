@@ -14,6 +14,7 @@ I aspire to be **Software Engineer**. In the face of the difficulties on the roa
 |C                 |Familiarity during University period|
 |C++               |Familiarity during University period|
 |Assembler Language|Graduation Design during University period|
+|Rust              |Learning        |
 
 |Languaes          |Level            |
 |------------------|-----------------|
