@@ -11,10 +11,11 @@ I aspire to be **Software Engineer**. In the face of the difficulties on the roa
 |C#                |Familiarity      |
 |Python            |Understand       |
 |Go                |Understand       |
-|C                 |Familiarity during University period|
-|C++               |Familiarity during University period|
+|Logo              |Understand during primary school|
+|C                 |Understand during senior middle school|
+|C++               |Understand during University period|
 |Assembler Language|Graduation Design during University period|
-|Rust              |Learning        |
+|Rust              |Learning at recently|
 
 |Languaes          |Level            |
 |------------------|-----------------|
