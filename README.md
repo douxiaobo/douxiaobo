@@ -25,9 +25,9 @@ I aspire to be **Software Engineer**. In the face of the difficulties on the roa
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douxiaobo)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douxiaobo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douxiaobo&hide=Makefile,HTML,CSS)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douxiaobo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douxiaobo&layout=compact&hide=Makefile,HTML,CSS)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
