@@ -1,10 +1,17 @@
 ### Hi there 👋
 
-I am Dou Xiaobo, hearing impaired, graduated from Tianjin University of Technology on June 2008. <br>
-Majored in Computer Science and Technology, I enjoy writing codes and command lines.<br>
-After graduation, I worked in the printing room at a school until Junuary 2022, but I'd like to be able to grow and want more challenges.<br>
-From February $10_{th}$ 2022 to Febrary $9_{th}$ 2024, I had joined Microsoft and worked as an Admin Assistant and Engineering Intern in Shanghai. During this period, I have focused on growing my technical skills development.<br>
-I aspire to be **Software Engineer**. In the face of the difficulties on the road of learning and developing my coding skills, I never give up and always follow through with them. <br>
+
+I am Dou Xiaobo, a hearing-impaired individual who graduated from Tianjin University of Technology in June 2008. My major was Computer Science and Technology, and I have a profound passion for coding, command line and single-chip microcomputers.<br>
+
+After graduation, I worked in the printing room at a school until January 2022, but I am eager to grow and embrace new challenges.<br>
+
+From February 10th, 2022 to February 9th, 2024, I had the opportunity to join Microsoft and work as an Admin Assistant and Engineering Intern in Shanghai. During this period, I focused on growing my technical skills.<br>
+
+I aspire to be a Software Engineer. Despite the difficulties I encounter on my journey to learning and enhancing my coding abilities, I never give up and always persist in my efforts.<br>
+
+Currently, I am unemployed since February 10th of this year and am eagerly awaiting a new job opportunity. If you are willing to be my mentor and assist me in improving my coding skills, please do not hesitate to contact me. I would greatly appreciate your help.<br>
+<br>
+
 
 |Programming Languaes|Level            |
 |--------------------|-----------------|
