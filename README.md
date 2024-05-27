@@ -13,16 +13,19 @@ Currently, I am unemployed since February 10th of this year and am eagerly await
 <br>
 
 
-|Programming Languaes|Level            |
-|--------------------|-----------------|
-|C#                |Familiarity      |
-|Python            |Understand       |
-|Go                |Understand       |
-|Logo              |Understand during primary school|
-|C                 |Understand during senior middle school|
-|C++               |Understand during University period|
-|Assembler Language|Graduation Design during University period|
-|Rust              |Learning at recently|
+
+| Programming Languages | Level                         |  
+|-----------------------|-------------------------------|  
+| C#                    | Learned at Microsoft since August 2022 |  
+| Python                | Learned since March 2022           |  
+| Go                    | Learned since October 2021           |  
+| Logo                  | Learned during primary school      |  
+| C                     | Learned during senior middle school  |  
+| Pascal                | Learned during university          |  
+| C++                   | Learned during university          |  
+| Assembler Language    | Learned for graduation design during university |  
+| Rust                  | Learned since February 2024 |  
+| Java                  | Currently learning                 |
 
 |Languaes          |Level            |
 |------------------|-----------------|
