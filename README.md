@@ -42,9 +42,9 @@ Currently, I am unemployed since February 10th of this year and am eagerly await
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douxiaobo)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douxiaobo&hide=Makefile,HTML,CSS,ASP.NET,Vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douxiaobo&hide=Makefile,HTML,CSS,ASP.NET,Vue,T-SQL)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douxiaobo&layout=compact&hide=Makefile,HTML,CSS,ASP.NET,Vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douxiaobo&layout=compact&hide=Makefile,HTML,CSS,ASP.NET,Vue,T-SQL)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
