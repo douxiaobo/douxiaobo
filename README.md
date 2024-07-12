@@ -28,7 +28,7 @@ Currently, I am unemployed since February 10th of this year and am eagerly await
 | C++                   | Learned during university studies      |    
 | Assembler Language    | Studied during junior year of university, applied for university graduation project |    
 | Rust                  | Learned since February 2024 |    
-| Java                  | Learned foundations from June to July   |
+| Java                  | Learned foundations from June to July 2024  |
 
 
 
