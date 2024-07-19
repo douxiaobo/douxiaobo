@@ -16,7 +16,7 @@ Currently, I am unemployed since February 10th of this year and am eagerly await
 
 
 
-
+<br><br>
 | Programming Languages | Level                                  |    
 |-----------------------|--------------------------------------|    
 | C#                    | Learned at Microsoft since August 2022 |    
@@ -33,26 +33,25 @@ Currently, I am unemployed since February 10th of this year and am eagerly await
 
 
 
-
+<br><br>
 |Languaes          |Level            |
 |------------------|-----------------|
 |Chinese|Mother Tongue|
 |English|Intermediate|
 |Spanish|Beginner|
 
-
+<br><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douxiaobo)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>Programming Language<br>
+<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douxiaobo&hide=Makefile,HTML,CSS,ASP.NET,Vue,TSQL)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>Front-end Framework<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douxiaobo&hide=C#,Rust,Go,Python,C,C++,Java,JavaScript)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>Programming Language<br>
+
+<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douxiaobo&layout=compact&hide=Makefile,HTML,CSS,ASP.NET,Vue,TSQL)](https://github.com/anuraghazra/github-readme-stats)
-<br>Front-end Framework<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douxiaobo&layout=compact&hide=C#,Rust,Go,Python,C,C++,Java,JavaScript)](https://github.com/anuraghazra/github-readme-stats)
+<br><br>
+
 
 
 
