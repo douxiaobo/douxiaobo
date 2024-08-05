@@ -16,6 +16,7 @@ Currently, I am unemployed since February 10th of this year and am eagerly await
 
 
 
+
 <br><br>
 | Programming Languages | Level                                  |    
 |-----------------------|--------------------------------------|    
@@ -47,12 +48,13 @@ Currently, I am unemployed since February 10th of this year and am eagerly await
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douxiaobo&hide=Makefile,HTML,CSS,ASP.NET,Vue,TSQL)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+<!--
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douxiaobo&layout=compact&hide=Makefile,HTML,CSS,ASP.NET,Vue,TSQL)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
+-->
 
-
+<a href="https://github.com/douxiaobo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douxiaobo&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 <!--
